@@ -1,0 +1,13 @@
+C:\Users\vatadepalli\Desktop\WSP\Store\BLL\bin\Debug\BLL.dll
+C:\Users\vatadepalli\Desktop\WSP\Store\BLL\bin\Debug\BLL.pdb
+C:\Users\vatadepalli\Desktop\WSP\Store\BLL\bin\Debug\BOL.dll
+C:\Users\vatadepalli\Desktop\WSP\Store\BLL\bin\Debug\DAL.dll
+C:\Users\vatadepalli\Desktop\WSP\Store\BLL\bin\Debug\BOL.pdb
+C:\Users\vatadepalli\Desktop\WSP\Store\BLL\bin\Debug\DAL.pdb
+C:\Users\vatadepalli\Desktop\WSP\Store\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\vatadepalli\Desktop\WSP\Store\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\vatadepalli\Desktop\WSP\Store\BLL\obj\Debug\BLL.dll
+C:\Users\vatadepalli\Desktop\WSP\Store\BLL\obj\Debug\BLL.pdb
+D:\Microsoft .NET\Store\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Microsoft .NET\Store\BLL\obj\Debug\BLL.dll
+D:\Microsoft .NET\Store\BLL\obj\Debug\BLL.pdb

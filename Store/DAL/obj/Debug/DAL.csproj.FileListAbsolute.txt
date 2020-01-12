@@ -1,0 +1,8 @@
+C:\Users\vatadepalli\Desktop\WSP\Store\DAL\bin\Debug\DAL.dll
+C:\Users\vatadepalli\Desktop\WSP\Store\DAL\bin\Debug\DAL.pdb
+C:\Users\vatadepalli\Desktop\WSP\Store\DAL\bin\Debug\BOL.dll
+C:\Users\vatadepalli\Desktop\WSP\Store\DAL\bin\Debug\BOL.pdb
+C:\Users\vatadepalli\Desktop\WSP\Store\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\vatadepalli\Desktop\WSP\Store\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\vatadepalli\Desktop\WSP\Store\DAL\obj\Debug\DAL.dll
+C:\Users\vatadepalli\Desktop\WSP\Store\DAL\obj\Debug\DAL.pdb

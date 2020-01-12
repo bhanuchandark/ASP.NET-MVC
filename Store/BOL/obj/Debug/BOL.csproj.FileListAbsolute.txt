@@ -1,0 +1,5 @@
+C:\Users\vatadepalli\Desktop\WSP\Store\BOL\bin\Debug\BOL.dll
+C:\Users\vatadepalli\Desktop\WSP\Store\BOL\bin\Debug\BOL.pdb
+C:\Users\vatadepalli\Desktop\WSP\Store\BOL\obj\Debug\BOL.dll
+C:\Users\vatadepalli\Desktop\WSP\Store\BOL\obj\Debug\BOL.pdb
+C:\Users\vatadepalli\Desktop\WSP\Store\BOL\obj\Debug\BOL.csprojAssemblyReference.cache
