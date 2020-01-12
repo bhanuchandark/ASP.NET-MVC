@@ -1,0 +1,55 @@
+﻿@using BOL;
+@model IEnumerable<Student>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Transflower Farmers for IT Greenhouse in CDAC ACTS Farm</h2>
+<h3>Growing tomorrows IT Leaders</h3>
+
+@*<h4 style="color:lawngreen">@ViewData["DelStatus"]</h4>*@
+
+
+<table class="table">
+
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.City)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+
+    </tr>
+
+    @foreach (var stu in @Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => stu.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => stu.City)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => stu.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => stu.Email)
+            </td>
+        </tr>
+
+    }
+</table>
+
+
+<a href="/Student/Register">Click Here to Register the new Student</a><br />
+<a href="/Student/Delete">Click Here to Delete the Student Info</a><br />
+<a href="/Student/Update">Click Here to Update the Student Info</a>

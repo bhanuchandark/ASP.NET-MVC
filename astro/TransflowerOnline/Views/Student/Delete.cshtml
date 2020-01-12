@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+<h4 style="color:red">@ViewData["status"]</h4>
+<h4 style="color:green">@ViewData["DelStatus"]</h4>
+<form method="post" action="/student/Delete">
+    <h5>Enter the Student id to delete the info</h5>
+    <input type="text" name="id" />
+    <button type="submit">Delete</button>
+</form>
+<hr />
+<style>
+    #aa:hover {
+        background-color:antiquewhite;
+    }
+</style>
+<a href="/Student/Index" id="aa">Click Here to View all the Student Info</a>

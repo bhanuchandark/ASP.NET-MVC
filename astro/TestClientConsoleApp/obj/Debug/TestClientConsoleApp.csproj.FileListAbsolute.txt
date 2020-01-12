@@ -1,0 +1,6 @@
+D:\Microsoft .NET\astro\TestClientConsoleApp\bin\Debug\TestClientConsoleApp.exe.config
+D:\Microsoft .NET\astro\TestClientConsoleApp\bin\Debug\TestClientConsoleApp.exe
+D:\Microsoft .NET\astro\TestClientConsoleApp\bin\Debug\TestClientConsoleApp.pdb
+D:\Microsoft .NET\astro\TestClientConsoleApp\obj\Debug\TestClientConsoleApp.csprojAssemblyReference.cache
+D:\Microsoft .NET\astro\TestClientConsoleApp\obj\Debug\TestClientConsoleApp.exe
+D:\Microsoft .NET\astro\TestClientConsoleApp\obj\Debug\TestClientConsoleApp.pdb

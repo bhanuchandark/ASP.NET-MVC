@@ -1,0 +1,16 @@
+﻿
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+<form method="post" action="/student/login">
+    <h4 style="color:red">@ViewData["status"]</h4>
+    <input type="text" name="email" placeholder="email" required/>
+    <input type="password" name="password" placeholder="password" required /><br />
+    <button type="submit">LogIn</button>
+    <hr />
+</form>
+<hr/>
+

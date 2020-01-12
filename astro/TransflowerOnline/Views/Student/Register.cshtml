@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewBag.Title = "Register";
+}
+
+<h4 style="color:forestgreen">@ViewData["RegStatus"]</h4>
+<h4 style="color:red">@ViewData["status"]</h4>
+<style>
+    header {
+        text-align: center;
+    }
+
+    table {
+        background-color: gainsboro;
+        padding-left: 10vh;
+    }
+
+    td {
+        padding: 1vh;
+    }
+
+    input {
+        padding: 1vh;
+    }
+
+    #box {
+        border-radius: 5%;
+    }
+</style>
+
+<h2>Register New Student</h2>
+<form method="post" action="/Student/Register">
+    <table>
+        <tr>
+            <td>Student Id:</td>
+            <td><input type="text" name="id" placeholder="ID" id="box" required></td>
+        </tr>
+        <tr>
+            <td>Student Name:</td>
+            <td><input type="text" name="name" placeholder="Name" id="box" required></td>
+        </tr>
+
+        <tr>
+            <td>Email: </td>
+            <td><input type="email" name="email" placeholder="email" id="box" required></td>
+        </tr>
+        <tr>
+            <td>Password: </td>
+            <td><input type="password" name="password" placeholder="password" id="box" required></td>
+        </tr>
+        <tr>
+            <td>City:</td>
+            <td><input type="text" name="city" placeholder="City" id="box" required></td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td><button type="submit">Register</button></td>
+        </tr>
+
+    </table>
+</form>
+<hr />
+
+<a href="/Student/Index" >Click Here to View all the Student Info</a>
+
+

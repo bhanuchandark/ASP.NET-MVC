@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Update";
+}
+
+<h2>Update</h2>
+<h4 style="color:forestgreen">@ViewData["UpdateStatus"]</h4>
+<h4>Enter the Student Id to Update the Info</h4>
+<form method="post" action="/Student/Update">
+    <input type="text" name="id" placeholder="id" /><br />
+    <input type="text" name="name" placeholder="name" /><br />
+    <input type="email" name="email" placeholder="email" /><br />
+    <input type="text" name="city" placeholder="city" /><br />
+    <button type="submit">Update</button>
+</form>
+
+<style>
+    #aa:hover {
+        background-color: antiquewhite;
+    }
+</style>
+<a href="/Student/Index" id="aa">Click Here to View all the Student Info</a>
+
+
+

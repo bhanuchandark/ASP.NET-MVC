@@ -1,0 +1,5 @@
+D:\Microsoft .NET\astro\BOL\bin\Debug\BOL.dll
+D:\Microsoft .NET\astro\BOL\bin\Debug\BOL.pdb
+D:\Microsoft .NET\astro\BOL\obj\Debug\BOL.dll
+D:\Microsoft .NET\astro\BOL\obj\Debug\BOL.pdb
+D:\Microsoft .NET\astro\BOL\obj\Debug\BOL.csprojAssemblyReference.cache

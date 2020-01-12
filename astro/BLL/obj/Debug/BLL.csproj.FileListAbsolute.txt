@@ -1,0 +1,10 @@
+D:\Microsoft .NET\astro\BLL\bin\Debug\BLL.dll
+D:\Microsoft .NET\astro\BLL\bin\Debug\BLL.pdb
+D:\Microsoft .NET\astro\BLL\bin\Debug\BOL.dll
+D:\Microsoft .NET\astro\BLL\bin\Debug\DAL.dll
+D:\Microsoft .NET\astro\BLL\bin\Debug\BOL.pdb
+D:\Microsoft .NET\astro\BLL\bin\Debug\DAL.pdb
+D:\Microsoft .NET\astro\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Microsoft .NET\astro\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Microsoft .NET\astro\BLL\obj\Debug\BLL.dll
+D:\Microsoft .NET\astro\BLL\obj\Debug\BLL.pdb
